@@ -1,0 +1,45 @@
+ubi_analysis/
+│
+├── data/
+│   ├── raw/
+│   │   ├── la_crime.csv
+│   │   ├── local_crime.csv
+│   │   └── cps_income.csv
+│   │
+│   ├── processed/
+│   │   ├── la_crime_1500.csv
+│   │   ├── cps_income_1500.csv
+│   │   └── local_crime_1500.csv
+│   │   |___merged data
+|   |
+│   └── database/
+│       └── ubi_analysis.db
+│
+├── notebooks/
+│   └── notebook.ipynb
+│
+├── scripts/
+│   ├── create_database.py
+│   ├── clean_data.py
+│   ├── sample_data.py
+│   └── visualize_data.py
+│
+├── output/
+│   ├── charts/
+│   ├── maps/
+│   └── reports/
+│
+├── docs/
+│   ├── capstone_proposal.docx
+│   ├── README.md
+│   └── data_dictionary.md
+│
+├── requirements.txt
+└── .gitignore 
+
+
+
+
+
+
+#AI assisted#
