@@ -1,0 +1,14 @@
+01
+Not enrolled
+02
+High school part time
+03
+High school full time
+04
+College/university part time
+05
+College/university full time
+96
+Refused
+99
+Not in universe

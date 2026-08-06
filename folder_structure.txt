@@ -7,13 +7,12 @@ ubi_analysis/
 │   │   └── cps_income.csv
 │   │
 │   ├── processed/
-│   │   ├── la_crime_1500.csv
-│   │   ├── cps_income_1500.csv
-│   │   └── local_crime_1500.csv
-│   │   |___merged data
-|   |
-│   └── database/
-│       └── ubi_analysis.db
+│     ├── la_crime_1500.csv
+│     ├── cps_income_1500.csv
+│     └── local_crime_1500.csv
+│     |___merged data
+|  
+│  
 │
 ├── notebooks/
 │   └── notebook.ipynb
